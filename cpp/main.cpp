@@ -23,14 +23,15 @@ int main()
 	Rectangle rect;
 	rect.set_values (3,4);
 
-	cout << "area: " << rect.area();  
+	cout << "area: " << rect.area() << endl;  
 
+	/*
 	int n(0);
 	cin >> n;
 	long val=factorial(n);
 	cout << val;
 	cin.get();
-
+	*/
 
 
 	return 0;

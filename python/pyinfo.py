@@ -6,7 +6,6 @@ import pkgutil
 import importlib
 import collections
 
-
 if sys.version_info.major == 2:
 	raise NotImplementedError('CPython 2 is not supported yet')
 
